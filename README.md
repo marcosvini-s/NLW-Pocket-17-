@@ -1,4 +1,4 @@
-<h1 align="center"> NLW Pocket:  >$$\color{green}JavaScript}$$< </h1>
+<h1 align="center"> $$\color{lightblue}NLW Pocket$$: $$\color{yellow}JavaScript$$ </h1>
 <p align="center">
 <img alt="print terminal JavaScript" src="https://i.imgur.com/FkW2F53.png" /></p>
 <h2 align="center" >📖 Conteúdos:</h2>
